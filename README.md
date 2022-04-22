@@ -1,4 +1,5 @@
 Welcome to the Arena of Gaming!
+
 Games are always incredibly fun as they take us to new dimensions partially away from reality, thus refreshing and relaxing our mind. Here I present a simple Gaming Website which offers the users three games namely - Guess My Number, Tic Tac Toe and Color Picker.
 Technologies used include - HTML, CSS, JavaScript and Firebase to set up the sign in, sign up and authentication functionality.
 You may have a look at the demo video to get an idea about the demonstration and here I present an overview of the same.
